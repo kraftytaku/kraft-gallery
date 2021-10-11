@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kraft-gallery/static/css/main.a7256dc6.chunk.css",
-    "main.js": "/kraft-gallery/static/js/main.b1a0bdd1.chunk.js",
-    "main.js.map": "/kraft-gallery/static/js/main.b1a0bdd1.chunk.js.map",
+    "main.css": "/kraft-gallery/static/css/main.7b5859c3.chunk.css",
+    "main.js": "/kraft-gallery/static/js/main.1bf8233d.chunk.js",
+    "main.js.map": "/kraft-gallery/static/js/main.1bf8233d.chunk.js.map",
     "runtime-main.js": "/kraft-gallery/static/js/runtime-main.4f5241ff.js",
     "runtime-main.js.map": "/kraft-gallery/static/js/runtime-main.4f5241ff.js.map",
     "static/css/2.ed1298f3.chunk.css": "/kraft-gallery/static/css/2.ed1298f3.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.41900443.chunk.js.map": "/kraft-gallery/static/js/2.41900443.chunk.js.map",
     "index.html": "/kraft-gallery/index.html",
     "static/css/2.ed1298f3.chunk.css.map": "/kraft-gallery/static/css/2.ed1298f3.chunk.css.map",
-    "static/css/main.a7256dc6.chunk.css.map": "/kraft-gallery/static/css/main.a7256dc6.chunk.css.map",
+    "static/css/main.7b5859c3.chunk.css.map": "/kraft-gallery/static/css/main.7b5859c3.chunk.css.map",
     "static/js/2.41900443.chunk.js.LICENSE.txt": "/kraft-gallery/static/js/2.41900443.chunk.js.LICENSE.txt",
     "static/media/File_000.119b6faf.jpg": "/kraft-gallery/static/media/File_000.119b6faf.jpg",
     "static/media/File_000.22fe6c42.jpg": "/kraft-gallery/static/media/File_000.22fe6c42.jpg",
@@ -102,7 +102,7 @@
     "static/js/runtime-main.4f5241ff.js",
     "static/css/2.ed1298f3.chunk.css",
     "static/js/2.41900443.chunk.js",
-    "static/css/main.a7256dc6.chunk.css",
-    "static/js/main.b1a0bdd1.chunk.js"
+    "static/css/main.7b5859c3.chunk.css",
+    "static/js/main.1bf8233d.chunk.js"
   ]
 }
