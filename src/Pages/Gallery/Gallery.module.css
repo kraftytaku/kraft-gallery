@@ -1,0 +1,83 @@
+.BodyWrapper {
+    background-color: #434c50;
+    min-height: 100vh;
+    padding: 40px 0;
+}
+.Container {
+    background-color: #fff;
+    color: #333;
+    min-height: 100vh;
+    padding: 30px 50px;
+}
+.Container h1 {
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.Desc {
+    text-align: center;
+    margin: 25px auto;
+    font-size: 18px;
+    color: #999;
+}
+.Gallery {
+    padding: 40px;
+}
+
+
+
+/* OVER-RIDE BOOTSTRAP COL PADDINGS */
+.Gallery .Row > div {
+    padding: 2px;
+}
+.Gallery .Item img {
+    width: 100%;
+    border-radius: 0;
+    position: relative;
+}
+
+
+
+/* HOVER EFFECTS */
+.Gallery .Item:before {
+    position: absolute;
+    bottom: 0;
+    width: 99%;
+    content: attr(data-visual-label);
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 9000;
+    font-size: 2rem;
+    transition: 0.4s;
+}
+.Gallery .Item:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #33333366;
+    opacity: 0;
+    content: '';
+    transition: 0.4s;
+}
+.Gallery .Item:hover:after, .Gallery .Item:hover:before {
+    opacity: 1;
+}
+
+
+/* SOCIAL ICONS */
+.SocialIcons {
+    position: relative;
+}
+.SocialIcons > a {
+    padding-right: 2rem;
+    font-size: 3rem;
+    color: #333;
+}
+.SocialIcons > a:hover {
+    color: #aaa;
+}
